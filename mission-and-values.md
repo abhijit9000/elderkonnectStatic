@@ -3,8 +3,6 @@ title: "Mission and Values"
 description: "That's ElderKonnect. Trusted Care For The Ones Who Cared For You."
 ---
 
-# Mission and Values
-
 ## Mission
 
 To empower elders and differently-abled individuals with dignified, accessible, and quality care by seamlessly connecting them with trusted caregivers and service providers.
