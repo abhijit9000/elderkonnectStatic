@@ -3,8 +3,6 @@ title: "Our Story"
 description: "That's ElderKonnect. Trusted Care For The Ones Who Cared For You."
 ---
 
-# Our Story
-
 It started with a phone call. Then another. And another.
 
 Three friends, all in their late 40s, had spent years building their lives away from home — different cities, different countries, long stretches of time where home was just a voice on the other end of the line. And as the years passed, that voice on the other end started to sound a little more tired. A little more uncertain. A little more in need.
